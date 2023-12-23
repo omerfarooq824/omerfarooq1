@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on python<br>👯 I’m looking to collaborate on python<br>🤝 I’m looking for help with backend developer <br>🌱 I’m currently learning Django<br>💬 Ask me about python<br>⚡ Fun fact "I'm the laziest super cool guy!"
+🔭 I’m currently working on python<br>👯 I’m looking to collaborate on python<br>🌱 I’m currently learning Django<br>💬 Ask me about python<br>⚡ Fun fact "I'm the laziest super cool guy!"
 
 
 ## 🌐 Socials:
